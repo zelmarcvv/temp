@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: temp-openshift
+  namespace: zelmarcvv-dev
+spec:
+  selector:
+    matchLabels:
+      app: temp-deploy
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: temp-deploy
+    spec:
+      containers:
+        - name: temp
+          image: zelmarcvv/temp:v3
+          ports:
+            - containerPort: 8080
