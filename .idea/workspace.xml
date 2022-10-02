@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ac5b551-8acd-4422-9bcc-13f8ec83477d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zel-design-patterns/src/main/java/zel/example/patterns/Zeldesignpatterns/cache/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Zel-design-patterns/src/main/java/zel/example/patterns/Zeldesignpatterns/cache/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/config/ConfigRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/config/ConfigRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/controller/RestResponseEntityExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/controller/RestResponseEntityExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/controller/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/controller/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/exception/TodoNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/exception/TodoNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/exception/model/ExceptionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/exception/model/ExceptionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/RequestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/RequestStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/TodoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/model/TodoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/service/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/service/impl/TodoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/java/com/example/course/examples/service/impl/TodoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course.examples/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../course.examples/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping>
+      <option value="directory" />
+      <option value="repository" />
+    </branch-grouping>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FKp2AalQbsLiyBEMcV8FnCx28O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TempApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dock.project.mvn.temp.TempApplication" />
+      <module name="temp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dock.project.mvn.temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TempApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac5b551-8acd-4422-9bcc-13f8ec83477d" name="Changes" comment="" />
+      <created>1664250422203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664250422203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
